@@ -5,6 +5,8 @@ El desafío es desarrollar esta sección de tarjetas y lograr que se parezca lo 
 - HTML
 - CSS
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/188293886-a95ab642-2263-4600-a3c1-56f94f256c51.jpg)
+
 # Guía de Estilo
 
 ## Diseño
