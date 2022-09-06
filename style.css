@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(33, 33, 33);
+    background-color: hsl(0, 0%, 98%);
 }
 
 /* ESTILOS CONTENEDOR PRINCIPAL */
@@ -27,7 +27,6 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: hsl(0, 0%, 98%);
     transition: all .4s ease-out;
 }
 
